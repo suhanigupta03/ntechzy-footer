@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+     font-family: Arial;
+     border : border-box;
+ }
+ .nav1
+{
+    background-color: white;
+    color:black;
+    height:80px;
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 0.85rem;
+    align-items: center;
+}
+.about
+{
+    font-weight: 800px;
+    font-family: Roboto;
+font-size: 18px;
+}
+
+.home
+{
+    color: orangered;
+    font-weight: 600px;
+}
+
+.sel
+{
+    text-decoration: none;
+    font-weight: 800px;
+    font-family: Roboto;
+ font-size: 18px;
+}
+.getquote
+{
+    border-radius: 25px;
+background: #F24646;
+box-shadow: 0px 0px 30px 2px rgba(0, 0, 0, 0.10), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+margin-right: 10%;
+
+}
+.get
+{
+    justify-content: center;
+    align-content:center;
+    margin-top: 10px;
+}
+.fb
+{
+    display: flex;
+width: 1%;
+padding: 8px 10.86px 6px 10.84px;
+justify-content: center;
+align-items: center;
+border-radius: 5px;
+border: 1px solid #191F45;
+background: #475993;
+box-shadow: 2px 3px 5px 0px #000;
+}
+.fblogo
+{
+    width: 10.3px;
+height: 18px;
+flex-shrink: 0;
+}
+.tweeter
+{
+    display: flex;
+    width: 1%;
+    padding: 8px 7.64px 6px 7.64px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+border: 1px solid #191F45;
+background: #76A9EA;
+box-shadow: 2px 3px 5px 0px #000;
+}
+.tlogo
+{
+    width: 16.72px;
+    height: 18px;
+    flex-shrink: 0;
+    
+}
+.linkedin
+{
+    display: flex;
+    width:1%;
+    padding: 8px 8.28px 6px 8.28px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid #191F45;
+    background: #002D72;
+    box-shadow: 2px 3px 5px 0px #000;    
+}
+.lilogo
+{
+    width: 15.44px;
+height: 18px;
+flex-shrink: 0;
+}
+.youtube
+{
+    display: flex;
+width: 1%;
+padding: 8px 8.28px 6px 8.28px;
+justify-content: center;
+align-items: center;
+border-radius: 5px;
+border: 1px solid #191F45;
+background: #F61C0D;
+box-shadow: 2px 3px 5px 0px #000;
+}
+.ytlogo
+{
+    width: 15.44px;
+    height: 18px;
+    flex-shrink: 0;
+    
+}
+.ig
+{
+    display: flex;
+width: 1%;
+padding: 8px 8.28px 6px 8.28px;
+justify-content: center;
+align-items: center;
+border-radius: 5px;
+border: 1px solid #191F45;
+background: #C20097;
+box-shadow: 2px 3px 5px 0px #000;
+
+}
+.iglogo
+{
+    width: 15.44px;
+height: 18px;
+flex-shrink: 0;
+}
+.nav2
+{
+    background-color: #112753;
+    height: 771px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+.col1
+{
+    
+    width: 50%;
+    height: 258px;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+.provide
+{
+    margin-bottom: 2%;
+}
+.grow p
+{
+  color: #FFFFFF;
+font-family: Jost;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 2%;
+}
